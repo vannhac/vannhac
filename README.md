@@ -25,11 +25,11 @@
 
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=vannhac&repo=WeatherApp&theme=dark&show_owner=true)]([https://github.com/vannhac/WeatherApp])
-[![](https://github-readme-stats.vercel.app/api/pin/?username=vannhac&repo=Shine-Smile-Website&theme=dark&show_owner=true)]([https://github.com/vannhac/Shine-Smile-Website])
-[![](https://github-readme-stats.vercel.app/api/pin/?username=vannhac&repo=Todo-List&theme=dark&show_owner=true)]([https://github.com/vannhac/Todo-List])
-[![](https://github-readme-stats.vercel.app/api/pin/?username=vannhac&repo=The-Besnik&theme=dark&show_owner=true)]([https://github.com/vannhac/The-Besnik])
-[![](https://github-readme-stats.vercel.app/api/pin/?username=vannhac&repo=The-Lession-Website&theme=dark&show_owner=true)]([https://github.com/vannhac/The-Lession-Website])
-[![](https://github-readme-stats.vercel.app/api/pin/?username=vannhac&repo=Web-band&theme=dark&show_owner=true)]([https://github.com/vannhac/Web-band])
+[![](https://github-readme-stats.vercel.app/api/pin/?username=vannhac&repo=Shine-Smile-Website&theme=dark&show_description=true)]([https://github.com/vannhac/Shine-Smile-Website])
+[![](https://github-readme-stats.vercel.app/api/pin/?username=vannhac&repo=Todo-List&theme=dark&show_description=true)]([https://github.com/vannhac/Todo-List])
+[![](https://github-readme-stats.vercel.app/api/pin/?username=vannhac&repo=The-Besnik&theme=dark&show_description=true)]([https://github.com/vannhac/The-Besnik])
+[![](https://github-readme-stats.vercel.app/api/pin/?username=vannhac&repo=The-Lession-Website&theme=dark&show_description=true)]([https://github.com/vannhac/The-Lession-Website])
+[![](https://github-readme-stats.vercel.app/api/pin/?username=vannhac&repo=Web-band&theme=dark&show_description=true)]([https://github.com/vannhac/Web-band])
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=vannhac&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <br/>
