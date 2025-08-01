@@ -25,7 +25,7 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=vannhac&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <br/>
-[![](https://github-readme-stats.vercel.app/api/pin/?username=vannhac&repo=WeatherApp&theme=dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/vannhac/WeatherApp))
+[![](https://github-readme-stats.vercel.app/api/pin/?username=vannhac&repo=WeatherApp&theme=dark)]([https://github.com/anuraghazra/github-readme-stats])
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
