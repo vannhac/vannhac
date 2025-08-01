@@ -22,15 +22,17 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vannhac&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=vannhac&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-<br/>
+
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=vannhac&repo=WeatherApp&theme=dark)]([https://github.com/vannhac/WeatherApp])
 [![](https://github-readme-stats.vercel.app/api/pin/?username=vannhac&repo=Shine-Smile-Website&theme=dark)]([https://github.com/vannhac/Shine-Smile-Website])
 [![](https://github-readme-stats.vercel.app/api/pin/?username=vannhac&repo=Todo-List&theme=dark)]([https://github.com/vannhac/Todo-List])
 [![](https://github-readme-stats.vercel.app/api/pin/?username=vannhac&repo=The-Besnik&theme=dark)]([https://github.com/vannhac/The-Besnik])
 [![](https://github-readme-stats.vercel.app/api/pin/?username=vannhac&repo=The-Lession-Website&theme=dark)]([https://github.com/vannhac/The-Lession-Website])
 [![](https://github-readme-stats.vercel.app/api/pin/?username=vannhac&repo=Web-band&theme=dark)]([https://github.com/vannhac/Web-band])
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=vannhac&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br/>
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
